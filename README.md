@@ -12,9 +12,9 @@ O projeto apresenta um wireframe criado para um desenvolvimento de um website, c
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web](marvelapp.com/prototype/7220b43)
+- [Layout Web](https://marvelapp.com/prototype/7220b43)
  
-O Wireframe foi criado utilizando a ferramenta [MarvelApp](marvelapp.com).
+O Wireframe foi criado utilizando a ferramenta [MarvelApp](https://marvelapp.com/).
 
 <hr>
 
