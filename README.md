@@ -9,13 +9,13 @@
 O projeto apresenta um wireframe criado para um desenvolvimento de um website, contendo um chatbot que permite realizar denúncias, e um mapa para visualizar todas as delegacias da mulher no Brasil. Além de trazer portais informativos em luta contra feminicídio.
 
 ## 💻 Desenvolvimento do Projeto:
-- [Heroku](https://marvelapp.com/prototype/7220b43)
+- [Heroku](https://tiaw-pm.herokuapp.com/)
   
 ## 🔖 Layout:
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web](https://tiaw-pm.herokuapp.com/)
+- [Layout Web](https://marvelapp.com/prototype/7220b43)
  
 O Wireframe foi criado utilizando a ferramenta [MarvelApp](https://marvelapp.com/).
 
